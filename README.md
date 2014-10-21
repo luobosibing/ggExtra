@@ -4,7 +4,7 @@
 
 To install
 
-* the latest development version: `install_github("threecifanggen/ggplotExtra")`
+* the latest development version: `install_github("threecifanggen/ggExtra")`
 * the latest realest version: **haven't update now.**
 
-Find more example about ggplot2 at [ggplot2.org](http://ggplot2.org). If you want to help imrpove, visit `https://github.com/threecifanggen/ggplotExtra` or email to `huangbaochenwo@live.com`.
+Find more example about ggplot2 at [ggplot2.org](http://ggplot2.org). If you want to help imrpove, visit `https://github.com/threecifanggen/ggExtra` or email to `huangbaochenwo@live.com`.
