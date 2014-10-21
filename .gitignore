@@ -50,4 +50,4 @@ Temporary Items
 .Rhistory
 .Rbuildignore
 Read-and-delete-me
-ggplotExtra.Rproj
+*.Rproj
