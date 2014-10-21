@@ -1,0 +1,9 @@
+Package: ggplotExtra
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2014-07-19
+Author: Tony Huang
+Maintainer: Tony Huang(huangbaochen@outlook.com)
+Description: More useful tools extending ggplot2.
+License: What license is it under?
