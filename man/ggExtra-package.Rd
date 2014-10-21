@@ -1,6 +1,6 @@
-\name{ggplotExtra-package}
-\alias{ggplotExtra-package}
-\alias{ggplotExtra}
+\name{ggExtra-package}
+\alias{ggExtra-package}
+\alias{ggExtra}
 \docType{package}
 \title{
 ggExtra
@@ -10,7 +10,7 @@ A packages plots ggplot2 style figures but with additional features and function
 }
 \details{
 \tabular{ll}{
-Package: \tab ggplotExtra\cr
+Package: \tab ggExtra\cr
 Type: \tab Package\cr
 Version: \tab 1.0\cr
 Date: \tab 2014-07-19\cr
