@@ -12,8 +12,8 @@ A packages plots ggplot2 style figures but with additional features and function
 \tabular{ll}{
 Package: \tab ggExtra\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2014-07-19\cr
+Version: \tab 1.0.33\cr
+Date: \tab 2014-10-22\cr
 License: \tab GPL \cr
 }
 }
